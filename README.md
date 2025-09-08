@@ -1,9 +1,7 @@
-# Project Vaccine Distribution
+# Project Vaccine Distribution Overview
 
 A PostgreSQL + Python project that simulates a vaccine distribution system.
 It covers database initialization, data preprocessing, SQL queries, and analysis to generate insights into vaccination patterns, patient symptoms, and staff scheduling.
-
-# Overview
 
 The project is divided into two main parts:
 
