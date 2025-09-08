@@ -1,4 +1,4 @@
-# Project Vaccine Distribution Overview
+# SQL Project: Vaccine Distribution Relational Database
 
 This project implements a vaccine distribution management system using PostgreSQL and Python.
 
