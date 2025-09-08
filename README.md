@@ -64,15 +64,27 @@ The project is divided into two main parts:
 ## Project Structure
 project-root/
 │
+
 ├── data/
+
 │   └── vaccine-distribution-data.xlsx     # Raw data (Excel)
+
 │
+
 ├── code/
+
 │   ├── postgres_init.py                   # Database initialization & preprocessing
+
 │   └── analysis_queries.py                # SQL queries & data analysis
+
 │
+
 ├── database/
+
 │   └── db_schema.sql                      # Database schema definitions
+
 │
+
 ├── q9-vaccines-plot.png                   # Example output plot
+
 └── README.md                              # Project documentation
